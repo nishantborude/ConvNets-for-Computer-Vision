@@ -1,2 +1,5 @@
-# Generative-Adversarial-Networks
-Deep Neural Networks to build a generator that generates new images from noise and a discriminator function for identifying the true images from the fake images
+## Convolutional Neural Networks for Image Classification
+
+Classic LeNet network architecture for classification of handwritten digits in the MNIST dataset.
+
+ConvNets for classification of CIFAR10 dataset into 10 different classes.
